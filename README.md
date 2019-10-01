@@ -20,6 +20,6 @@ A beautiful collaborative code editing app.
 - [Cory]()
 - [Jing]()
 
-##Demo
+## Demo
 - Video demo:https://www.youtube.com/watch?v=Iv2YNzOx1Kg
 
