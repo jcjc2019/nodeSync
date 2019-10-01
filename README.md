@@ -11,6 +11,7 @@ A beautiful collaborative code editing app.
 ## Built with
 - [React.js](https://reactjs.org/) 
 - [Node.js](https://nodejs.org/en/) 
+- [Express](https://expressjs.com/)
 - [Semantic UI](https://semantic-ui.com/) 
 - [Socket.IO](https://socket.io/)
 - [CodeMirror](https://codemirror.net)
